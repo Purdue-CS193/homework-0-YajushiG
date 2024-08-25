@@ -1,9 +1,9 @@
-'''
+```
 # Yajushi's First CS193 Homework
 Some of my favorite things about CS 193 are:
 - my friends
 - the instructors
-'''
+```
 
 ## Welcome to GitHub Pages
 
